@@ -2,6 +2,7 @@ import Image from "next/image";
 import { FaCheck } from "react-icons/fa";
 import Link from "next/link";
 import Service from "./components/Service";
+import Stats from "./components/Stats";
 
 export default function Home() {
   return (
@@ -50,6 +51,7 @@ export default function Home() {
         </div>
       </section>
       <Service />
+      <Stats />
     </main>
   );
 }

@@ -12,10 +12,10 @@ export default function Service() {
           tailored guidance to cultivate enduring wealth.
         </p>
         <div className=" gap-3 flex justify-center font-medium my-10">
-          <button className="bg-red-600 text-white rounded-full px-4 py-1">
+          <button className="bg-red-600 text-white rounded-full px-5 py-2">
             Get started
           </button>
-          <button className="ring-1 ring-red-600 text-black rounded-full px-4 py-1  ">
+          <button className="ring-1 ring-red-600 text-black rounded-full px-5 py-2  ">
             Learn more
           </button>
         </div>
