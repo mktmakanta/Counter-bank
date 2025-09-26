@@ -5,7 +5,7 @@ export default function Service() {
     <section className="bg-white text-black">
       <div className="text-center max-w-6xl mx-auto">
         <h1 className="text-4xl lg:text-7xl pt-12 lg:pt-20 ">
-          Your money's <span className="text-red-600 italic">worth</span> more
+          Your money&apos;s <span className="text-red-600 italic">worth</span> more
         </h1>
         <p className="my-3 text-sm lg:text-base">
           Maximize your financial returns with astute solutions <br /> and
